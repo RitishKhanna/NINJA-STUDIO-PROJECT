@@ -1,5 +1,5 @@
 # NINJA-STUDIO-PROJECT
-View this Project at: https://ritishkhanna18.github.io/NINJA-STUDIO-PROJECT/
+View this Project at: https://ritishkhanna.github.io/NINJA-STUDIO-PROJECT/
 
 
 
